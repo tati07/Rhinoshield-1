@@ -1,0 +1,14 @@
+header {
+  background: #444444;
+  height: 2%;
+  width: 100%;
+}
+
+.menu-top {
+  display: flex;
+}
+
+.div-header-logo {
+  height: 10px;
+  width: auto;
+}
